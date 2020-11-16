@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Novie/static/css/main.19699559.chunk.css",
-    "main.js": "/Novie/static/js/main.3153a280.chunk.js",
-    "main.js.map": "/Novie/static/js/main.3153a280.chunk.js.map",
+    "main.js": "/Novie/static/js/main.51a6c228.chunk.js",
+    "main.js.map": "/Novie/static/js/main.51a6c228.chunk.js.map",
     "runtime-main.js": "/Novie/static/js/runtime-main.4e892d2d.js",
     "runtime-main.js.map": "/Novie/static/js/runtime-main.4e892d2d.js.map",
     "static/css/2.1a02f21c.chunk.css": "/Novie/static/css/2.1a02f21c.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.19177cd3.chunk.js",
     "static/css/main.19699559.chunk.css",
-    "static/js/main.3153a280.chunk.js"
+    "static/js/main.51a6c228.chunk.js"
   ]
 }
