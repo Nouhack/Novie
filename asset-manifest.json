@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Novie/static/css/main.19699559.chunk.css",
+    "main.js": "/Novie/static/js/main.361466fb.chunk.js",
+    "main.js.map": "/Novie/static/js/main.361466fb.chunk.js.map",
+    "runtime-main.js": "/Novie/static/js/runtime-main.4e892d2d.js",
+    "runtime-main.js.map": "/Novie/static/js/runtime-main.4e892d2d.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/Novie/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.19177cd3.chunk.js": "/Novie/static/js/2.19177cd3.chunk.js",
+    "static/js/2.19177cd3.chunk.js.map": "/Novie/static/js/2.19177cd3.chunk.js.map",
+    "static/js/3.43362525.chunk.js": "/Novie/static/js/3.43362525.chunk.js",
+    "static/js/3.43362525.chunk.js.map": "/Novie/static/js/3.43362525.chunk.js.map",
+    "index.html": "/Novie/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/Novie/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.19699559.chunk.css.map": "/Novie/static/css/main.19699559.chunk.css.map",
+    "static/js/2.19177cd3.chunk.js.LICENSE.txt": "/Novie/static/js/2.19177cd3.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/Novie/static/media/logo.103b5fa1.svg",
+    "static/media/App.css": "/Novie/static/media/xs.5306a457.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e892d2d.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.19177cd3.chunk.js",
+    "static/css/main.19699559.chunk.css",
+    "static/js/main.361466fb.chunk.js"
+  ]
+}
