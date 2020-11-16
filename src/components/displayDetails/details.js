@@ -14,7 +14,7 @@ export default withRouter(function Details(props) {
     useEffect(() => {
 
 
-        axios.get(`http://www.omdbapi.com/?apikey=fa3e154a&i=${props.match.params.imdbid}`)
+        axios.get(`https://www.omdbapi.com/?apikey=fa3e154a&i=${props.match.params.imdbid}`)
             .then(res => {
                 setDetailData(res.data)
                 setLoading(true)

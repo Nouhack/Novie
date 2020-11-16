@@ -13,7 +13,7 @@ export default function DisplayMovies({ Search_Title, Search_Page, Search_type }
     const [Loading, setLoading] = useState(false)
 
     useEffect(() => {
-        axios.get(`http://www.omdbapi.com/?apikey=fa3e154a&s=${Search_Title}&page=${Search_Page}&type=${Search_type}`)
+        axios.get(`https://www.omdbapi.com/?apikey=fa3e154a&s=${Search_Title}&page=${Search_Page}&type=${Search_type}`)
             .then(res => {
                 setsDATA(res.data.Search)
                 setnumber(res.data.totalResults)
