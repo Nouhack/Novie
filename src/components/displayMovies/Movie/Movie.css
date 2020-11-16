@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+.fibben{
+    opacity:1;
+    transition: 1s ease;
+
+    
+}
+
+.fibben:hover{
+    opacity:0.5;
+    transition: 1s ease;
+
+}
+
+
+      /* relevant styles */
+.img__wrap {
+    position: relative;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .img__description {
+    position: static;
+    top: 0;
+    bottom: 0; 
+    left: 0;
+    right: 0;
+    background: #11998ea2;
+    font-family: 'Bebas Neue', cursive;
+
+    color: white;
+    visibility: hidden;
+    opacity: 0;
+    /* transition effect. not necessary */
+    transition: opacity .2s, visibility .2s;
+  }
+  
+  .img__wrap:hover .img__description {
+    visibility: visible;
+    
+    height: 100%;
+    opacity:1;
+    transition: 1s ease;
+  }
