@@ -15,8 +15,8 @@ export default function SearchCOmponent() {
             <Choose setTy={settype} />
             <div className="form__group field ">
 
-                <input type="text" className="form__field" placeholder="Name" value={inputValue} onChange={(e) => setinputValue(e.target.value)} name="name" id='name' required />
-                <label htmlFor="name" className="form__label">Name</label>
+                <input type="text" className="form__field" placeholder="Name Movie or Serie" value={inputValue} onChange={(e) => setinputValue(e.target.value)} name="name" id='name' required />
+                <label htmlFor="name" className="form__label">Search Movie or Serie</label>
                 <Link to={"Search/" + type + "/" + inputValue + "/" + 1} >
                     <Button className='shadow-none w-100 mt-md-2 mt-2' style={{ background: 'linear-gradient(45deg, rgb(21, 20, 20), transparent)', border: "none" }} > SEARCH ... </Button>
                 </Link>
